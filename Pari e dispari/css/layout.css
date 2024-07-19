@@ -8,7 +8,13 @@
     MAIN SECTION
 ****************************************************/
 
+#userNumber {
+    border-radius: 5px;
+}
 
+.negative-margin {
+    margin-left: -30px;
+}
 
 /*************************************************** 
     FOOTER SECTION
