@@ -1,6 +1,6 @@
 // Chiedo all'utente il valore "parola" e lo salvo.
 
-const userWord = prompt('Inserisci una parola');
+const userWord = prompt('Inserisci una parola tutta in minuscolo');
 console.log (userWord);
 
 // Inizializzo una variabile per utilizzarla all'interno della funzione.
